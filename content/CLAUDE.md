@@ -11,7 +11,6 @@ vault/
 ├── sources/       # 原始材料（只读）
 ├── wiki/          # 综合洞察页
 │   └── index.md   # 目录（所有 wiki 页面的入口）
-├── .raw/          # 原始备份（隐藏）
 ├── WIKI.md        # wiki 操作指南
 └── CLAUDE.md      # 本文件
 ```
@@ -27,6 +26,8 @@ vault/
 ## 约定
 
 - `sources/` 只读，不改原始材料
+- 当前仓库不使用 `.raw/`、manifest、自动 ingest 流程；新增材料统一放入 `sources/`
+- 增量检测入口：`.\sync-wiki.cmd` 或 `powershell -ExecutionPolicy Bypass -File scripts/sync-wiki.ps1`
 - 用 `[[Page Name]]` wikilink，不用文件路径
 - wiki 页面必须有 frontmatter（title, created, tags）
 - 引用 source 格式：`[[sources/文件名.md|显示名]]`

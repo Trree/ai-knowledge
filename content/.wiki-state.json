@@ -1,0 +1,285 @@
+{
+    "pending":  {
+                    "uncited_sources":  {
+
+                                        },
+                    "stale_pages":  {
+
+                                    }
+                },
+    "pages":  {
+                  "Karpathy 的三条元知识":  {
+                                          "path":  "wiki/Karpathy 的三条元知识.md",
+                                          "source_refs":  [
+                                                              "sources/2026-04-22-karpathy-llm-wiki.md",
+                                                              "sources/Autoresearch 背后的思想提炼.md",
+                                                              "sources/steve jobs autoresearch.md"
+                                                          ],
+                                          "hash":  "f817eabef191bc6d025ecc11fe8abea4c061fbc105837ffa12042c8bf55958ee"
+                                      },
+                  "反馈循环是唯一的元模式":  {
+                                      "path":  "wiki/反馈循环是唯一的元模式.md",
+                                      "source_refs":  [
+                                                          "sources/2026-04-22-topic-wiki-core-pipeline-mvp.md",
+                                                          "sources/2026-04-22-topic-wiki-first-package-prd.md",
+                                                          "sources/Autoresearch 背后的思想提炼.md",
+                                                          "sources/autoresearch 科研版本.md",
+                                                          "sources/autoresearch.md",
+                                                          "sources/deepresearch + autoresearch.md",
+                                                          "sources/deep-research-report.md",
+                                                          "sources/steve jobs autoresearch.md",
+                                                          "sources/养成深度思考的习惯.md"
+                                                      ],
+                                      "hash":  "c09a8c4286d5885e94cd8718b44235cda41464f6214c42089efb15d9ad1a68ab"
+                                  },
+                  "卖结果不卖工具":  {
+                                  "path":  "wiki/卖结果不卖工具.md",
+                                  "source_refs":  [
+                                                      "sources/20260420T105906--圆桌-skills-本质局限下一代__roundtable.md",
+                                                      "sources/2026-04-22-karpathy-llm-wiki.md",
+                                                      "sources/2026-04-22-topic-wiki-first-package-prd.md",
+                                                      "sources/2026-04-22-topic-wiki-first-package-tech-solution.md",
+                                                      "sources/巨头生态外的长尾突围：超级个体发掘\"最后一公里\"痛点需求的研究报告.md",
+                                                      "sources/养成深度思考的习惯.md"
+                                                  ],
+                                  "hash":  "063257c3215ff4a7aac07fae8cf80adc0623b085df299a334d35384567dcfe91"
+                              },
+                  "品味是最后的不可自动化":  {
+                                      "path":  "wiki/品味是最后的不可自动化.md",
+                                      "source_refs":  [
+                                                          "sources/Autoresearch 背后的思想提炼.md",
+                                                          "sources/content.md",
+                                                          "sources/lijigang.md",
+                                                          "sources/steve jobs autoresearch.md"
+                                                      ],
+                                      "hash":  "94f006216bce166faf4a37c1cf09a8148215ab4459d5a21fad34faa76323896a"
+                                  },
+                  "评估者比执行者更危险":  {
+                                     "path":  "wiki/评估者比执行者更危险.md",
+                                     "source_refs":  [
+                                                         "sources/ai-science.md",
+                                                         "sources/deep-research-report.md",
+                                                         "sources/steve jobs autoresearch.md"
+                                                     ],
+                                     "hash":  "b7737895743f53a3f04e031ce00d267e2aa754bbe7c6fb88b72d38104497b20d"
+                                 },
+                  "收缩即护城河":  {
+                                 "path":  "wiki/收缩即护城河.md",
+                                 "source_refs":  [
+                                                     "sources/2025-2026年度中国深度文化社区内容消费趋势与核心用户画像全景洞察.md",
+                                                     "sources/20260420T105906--圆桌-skills-本质局限下一代__roundtable.md",
+                                                     "sources/2026-04-22-topic-wiki-first-package-prd.md",
+                                                     "sources/豆瓣用户画像与社区生态演进深度研究报告（2024-2026）.md",
+                                                     "sources/巨头生态外的长尾突围：超级个体发掘\"最后一公里\"痛点需求的研究报告.md",
+                                                     "sources/深度研究闲鱼：从闲置物品交易社区到线上线下同城服务连接枢纽的战略重构与商业逻辑解析.md",
+                                                     "sources/深圳卫健委政务新媒体高流量传播机制、组织重构与话语转型的深度研究报告.md",
+                                                     "sources/闲鱼APP的进化演变之旅：从C2C闲置交易到全链路多元共享经济生态的深度重构.md"
+                                                 ],
+                                 "hash":  "976befd1445e83b49385f1893ce89627af2797a46b6851d8b86e43b7381e4f59"
+                             },
+                  "同一内容的多次压缩":  {
+                                    "path":  "wiki/同一内容的多次压缩.md",
+                                    "source_refs":  [
+                                                        "sources/巨头吃剩的才是你的菜-深圳卫健委风格版.md",
+                                                        "sources/养成深度思考的习惯.md",
+                                                        "sources/养成深度思考的习惯-public-service.md",
+                                                        "sources/养成深度思考的习惯-更强传播版.md",
+                                                        "sources/养成深度思考的习惯-公众号爆款版.md",
+                                                        "sources/养成深度思考的习惯-作者风格版.md"
+                                                    ],
+                                    "hash":  "8184e50c363f9b5b9014b3595670505a37e1f1f46f16df1d30e86504a8488941"
+                                }
+              },
+    "last_synced":  "2026-04-23T02:02:11.1447573Z",
+    "sources":  {
+                    "sources/2025-2026年度中国深度文化社区内容消费趋势与核心用户画像全景洞察.md":  {
+                                                                            "hash":  "764e3bc3592937efa76c5190433a75ebf51425cc42cd43e53484c53815fd66f8",
+                                                                            "mtime":  "2026-04-22T06:05:16.2928817Z"
+                                                                        },
+                    "sources/20260420T105906--圆桌-skills-本质局限下一代__roundtable.md":  {
+                                                                                      "hash":  "5b9f05c72cd5021d738e9a73a8d3b2410e79f811736644714b7cbd2c2fc8e8d3",
+                                                                                      "mtime":  "2026-04-22T06:05:16.3038586Z"
+                                                                                  },
+                    "sources/2026-04-22-karpathy-llm-wiki.md":  {
+                                                                    "hash":  "ba29a4beb1a03e799b20753bd34133545df2e5c48ddfa4a3f8ae311ed1ae5b70",
+                                                                    "mtime":  "2026-04-22T06:05:16.2948536Z"
+                                                                },
+                    "sources/2026-04-22-topic-wiki-core-pipeline-mvp.md":  {
+                                                                               "hash":  "497eecda8b1ca142fe380a606a8d29d4cc4e20d25e1c1697435d638d590e2f5a",
+                                                                               "mtime":  "2026-04-22T06:05:16.2988561Z"
+                                                                           },
+                    "sources/2026-04-22-topic-wiki-first-package-prd.md":  {
+                                                                               "hash":  "4b9bf3c4df9de0a14f6f138505cf54ad32442531e5d2c5ae87b1cdab5965b48e",
+                                                                               "mtime":  "2026-04-22T06:05:16.2998561Z"
+                                                                           },
+                    "sources/2026-04-22-topic-wiki-first-package-tech-solution.md":  {
+                                                                                         "hash":  "528d0e772179e5c6cc08142d15e574cd62368804e25718314cbc95f76af36f94",
+                                                                                         "mtime":  "2026-04-22T06:05:16.3028543Z"
+                                                                                     },
+                    "sources/AI 时代做什么是最佳选择.md":  {
+                                                     "hash":  "24e0184daa7decec4a8ae752ae23140430d42f020073948e70abf2f56d517283",
+                                                     "mtime":  "2026-04-22T08:46:58.2074104Z"
+                                                 },
+                    "sources/ai-science.md":  {
+                                                  "hash":  "38e21067a5910ed62aaaca6c5609c79d99f28994f56d09f158662eb3ad80ec2f",
+                                                  "mtime":  "2026-04-22T06:05:16.3088533Z"
+                                              },
+                    "sources/article-gda-wechat - 副本.md":  {
+                                                               "hash":  "36b179abffac970f50adb4a28c0c76c37631809324dd1f2098a6963e0b0383f9",
+                                                               "mtime":  "2026-04-21T03:20:19.7226360Z"
+                                                           },
+                    "sources/article-gda-wechat.md":  {
+                                                          "hash":  "7f952eacb8cc313b77b6d60e357b533fb57daad49f381bd6b57025b16d9902ac",
+                                                          "mtime":  "2026-04-21T03:34:21.4364154Z"
+                                                      },
+                    "sources/Autoresearch 背后的思想提炼.md":  {
+                                                            "hash":  "7004985cff6b848ea2c935f96fa3fe5f7a5ae458ee88077cd92d0bb98c134f2b",
+                                                            "mtime":  "2026-04-22T06:05:16.3058523Z"
+                                                        },
+                    "sources/autoresearch 科研版本.md":  {
+                                                         "hash":  "0721f107148b2814f6ab11b1e26a7731e59741d19e19eec301342f1dc1ad72b8",
+                                                         "mtime":  "2026-04-22T06:05:16.3118656Z"
+                                                     },
+                    "sources/autoresearch.md":  {
+                                                    "hash":  "db922c437e62c2eac56385f48ee289f62fe1036f8bb0e78eae5b0d5439a624b2",
+                                                    "mtime":  "2026-04-22T06:05:16.3138567Z"
+                                                },
+                    "sources/computer-history-ai-guidance - 副本 (2).md":  {
+                                                                             "hash":  "0e325d7975bd0cdddd1fafd8a973966713b1a4b09f90f16415a6ff948ae3b137",
+                                                                             "mtime":  "2026-04-22T09:02:48.2283713Z"
+                                                                         },
+                    "sources/content.md":  {
+                                               "hash":  "b7cf2705f054a1ab4f29e1ecfeb98da0c5e3265bd5e592cc9058c26bd8e8f984",
+                                               "mtime":  "2026-04-22T06:05:16.3168580Z"
+                                           },
+                    "sources/deepresearch + autoresearch.md":  {
+                                                                   "hash":  "9d70d2fcf89c1099f84449d57fe28f0a5b17e8727db503bdc6646630344ddf51",
+                                                                   "mtime":  "2026-04-22T06:05:16.3208520Z"
+                                                               },
+                    "sources/deepresearch.md":  {
+                                                    "hash":  "6c1657e9acabdbd5a731ef8031d0ab7d090aa75922a8deff22e39ad1b99df6fa",
+                                                    "mtime":  "2026-04-22T06:05:16.3228517Z"
+                                                },
+                    "sources/deep-research-next-gen.md":  {
+                                                              "hash":  "d6ed9dcd89856b09101569ab91f7d8a4137da99065b1df872cbceb18ed6c394e",
+                                                              "mtime":  "2026-04-21T03:14:46.9916169Z"
+                                                          },
+                    "sources/deep-research-report.md":  {
+                                                            "hash":  "a9980a5901fdb738496976ea68232df4f994a62c5d4c0e83367b26102536c80b",
+                                                            "mtime":  "2026-04-22T06:05:16.3188520Z"
+                                                        },
+                    "sources/GDA Goal-Driven Agent 技术介绍.md":  {
+                                                                  "hash":  "1eb5e2261c47a18e383b239a78d049301e914ac8a61436def6b90286356dbc6e",
+                                                                  "mtime":  "2026-04-22T08:47:18.0327560Z"
+                                                              },
+                    "sources/Karpathy.md":  {
+                                                "hash":  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                                                "mtime":  "2026-04-22T06:05:16.3068535Z"
+                                            },
+                    "sources/Karpathy讲的是知识复利，不是让AI批量制造页面.md":  {
+                                                                   "hash":  "c9ba0462144c33d3a20fd9887a71ea75addf7de8198d567330e80e01c138d442",
+                                                                   "mtime":  "2026-04-22T06:57:30.3403808Z"
+                                                               },
+                    "sources/lijigang.md":  {
+                                                "hash":  "8280298661abf3c6dc898b6a441d9941f612431a288d5a06698da22cb5c9931b",
+                                                "mtime":  "2026-04-22T06:05:16.3238512Z"
+                                            },
+                    "sources/LLM Wiki.md":  {
+                                                "hash":  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                                                "mtime":  "2026-04-22T06:05:16.3078538Z"
+                                            },
+                    "sources/steve jobs autoresearch.md":  {
+                                                               "hash":  "80cb6f1ee4b1e43c9aa5a714ab4bf845dc312d053c9e38db19b8d94dfeebe464",
+                                                               "mtime":  "2026-04-22T09:04:37.5716950Z"
+                                                           },
+                    "sources/程序员未来的工作流程是怎样的.md":  {
+                                                      "hash":  "50cad07a565b20c243b3d426473838dfb6bf983f5ab43536ecd62dce8918a6cf",
+                                                      "mtime":  "2026-04-22T08:48:29.1613018Z"
+                                                  },
+                    "sources/从 1970 到今天的计算机史，对当下 AI 起步阶段有什么指导.md":  {
+                                                                        "hash":  "0e325d7975bd0cdddd1fafd8a973966713b1a4b09f90f16415a6ff948ae3b137",
+                                                                        "mtime":  "2026-04-22T09:02:18.4735487Z"
+                                                                    },
+                    "sources/从 1970 到今天的计算机史对当下 AI 起步阶段有什么指导.md":  {
+                                                                       "hash":  "14b12a8898e186433a420ab5765186cada258cde1a77dd812b52eb24608436a4",
+                                                                       "mtime":  "2026-04-22T09:02:35.2972585Z"
+                                                                   },
+                    "sources/豆瓣用户画像与社区生态演进深度研究报告（2024-2026）.md":  {
+                                                                      "hash":  "e82184b641518f49b781e42676550543d58b7261c7ab9cd4b78803ea7912734d",
+                                                                      "mtime":  "2026-04-22T06:05:16.3508902Z"
+                                                                  },
+                    "sources/多平台内容生成.md":  {
+                                               "hash":  "3a0b2ca4e9bd101ef4cd5e243a93e8ca4cf7c8a4a0b42299288035ca19a4cafb",
+                                               "mtime":  "2026-04-22T06:05:16.3390475Z"
+                                           },
+                    "sources/公众号-我用850行规范搞崩了知识库.md":  {
+                                                          "hash":  "38ace52521a7b016f3407a21f2d3c8bf68ed79d3bf8eb7c77634cad9280d8033",
+                                                          "mtime":  "2026-04-22T06:32:38.3555386Z"
+                                                      },
+                    "sources/公众号-我用850行规范搞崩了知识库-analysis.md":  {
+                                                                   "hash":  "1173c163089f4925d64259e873844a3500f5d8c820fa4d8df51f46c8978dd039",
+                                                                   "mtime":  "2026-04-22T06:55:23.1830607Z"
+                                                               },
+                    "sources/解答我自己的困惑.md":  {
+                                                "hash":  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                                                "mtime":  "2026-04-22T06:05:16.3488897Z"
+                                            },
+                    "sources/巨头吃剩的才是你的菜-深圳卫健委风格版.md":  {
+                                                           "hash":  "168c0f7afbc07fa3a794f3e9e034598a5700cc5204a4e26609bf4e2b722e8639",
+                                                           "mtime":  "2026-04-22T06:05:16.3400873Z"
+                                                       },
+                    "sources/巨头生态外的长尾突围：超级个体发掘“最后一公里”痛点需求的研究报告.md":  {
+                                                                         "hash":  "a9501f2fc4d0c014daa9bc4d7ac615465c15025dfc87a9b0984cacf1951dd485",
+                                                                         "mtime":  "2026-04-22T09:04:37.5727929Z"
+                                                                     },
+                    "sources/深度研究闲鱼：从闲置物品交易社区到线上线下同城服务连接枢纽的战略重构与商业逻辑解析.md":  {
+                                                                                 "hash":  "f96a3ba1b2700410e4e11140d5901e600e076b3f343664a645e6035a750fa643",
+                                                                                 "mtime":  "2026-04-22T06:05:16.3469410Z"
+                                                                             },
+                    "sources/深圳卫健委政务新媒体高流量传播机制、组织重构与话语转型的深度研究报告.md":  {
+                                                                          "hash":  "683a89d9db30aee07727c8afe08c4ebb33772bfe38e55dbc2c0531423eeb4cf5",
+                                                                          "mtime":  "2026-04-22T06:05:16.3437506Z"
+                                                                      },
+                    "sources/痛点.md":  {
+                                          "hash":  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                                          "mtime":  "2026-04-22T06:05:16.3488897Z"
+                                      },
+                    "sources/下一代 Deep Research 应该是什么.md":  {
+                                                               "hash":  "10726e05026a8bd2aad9d0e82182daa2aca12b0eb893a7d76a8764069cbaf225",
+                                                               "mtime":  "2026-04-22T08:48:19.6122514Z"
+                                                           },
+                    "sources/闲鱼APP的进化演变之旅：从C2C闲置交易到全链路多元共享经济生态的深度重构.md":  {
+                                                                              "hash":  "d2987980c3dba14057b3b776119032cf56bbd211213dbf93625b1723fd2e663a",
+                                                                              "mtime":  "2026-04-22T06:05:16.3528880Z"
+                                                                          },
+                    "sources/需求.md":  {
+                                          "hash":  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                                          "mtime":  "2026-04-22T06:05:16.3538869Z"
+                                      },
+                    "sources/养成深度思考的习惯，不靠“多提醒”，靠“好提问”.md":  {
+                                                                "hash":  "3d459fb0f722cd8b099f55e6673e0f73d84848b5f9b3a80e51650f8b95958e99",
+                                                                "mtime":  "2026-04-22T06:05:16.3368822Z"
+                                                            },
+                    "sources/养成深度思考的习惯.md":  {
+                                                 "hash":  "c4830756115b3381f3baab5d168002f8022a2773ce3d648d1d46d7aaf8a1869b",
+                                                 "mtime":  "2026-04-22T08:38:09.8666664Z"
+                                             },
+                    "sources/养成深度思考的习惯-public-service.md":  {
+                                                                "hash":  "e115e51b1403edab755464da7c0d75408850cd89158df9bc62f45f3c4e9bd5d6",
+                                                                "mtime":  "2026-04-22T06:05:16.3268530Z"
+                                                            },
+                    "sources/养成深度思考的习惯-更强传播版.md":  {
+                                                       "hash":  "e2bb4e19c788a1829c0a7c13acf794982392818a205c09cfaed2b57e09f7e0a2",
+                                                       "mtime":  "2026-04-22T06:05:16.3328543Z"
+                                                   },
+                    "sources/养成深度思考的习惯-公众号爆款版.md":  {
+                                                        "hash":  "338f22b8c50e35b160572e167265c5c8fd9de13e7389580f2c9598b02fb825b6",
+                                                        "mtime":  "2026-04-22T06:05:16.3318598Z"
+                                                    },
+                    "sources/养成深度思考的习惯-作者风格版.md":  {
+                                                       "hash":  "6fa4f234875fd7281b930815289bed28284b6d3d34352068db316a47ab0fa44c",
+                                                       "mtime":  "2026-04-22T06:05:16.3288552Z"
+                                                   }
+                },
+    "version":  1
+}

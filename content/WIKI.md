@@ -20,7 +20,6 @@ vault/
 ├── sources/        # 原始材料（一等公民，可浏览，只读）
 ├── wiki/           # 综合洞察（每篇回答一个跨源的真问题）
 │   └── index.md    # 目录
-├── .raw/           # 原始备份（隐藏，不日常使用）
 ├── WIKI.md         # 本文件
 └── CLAUDE.md
 ```
@@ -29,6 +28,7 @@ vault/
 
 - **sources/** = 原始材料。放进来就不改。是知识的"地基"。
 - **wiki/** = 你的洞察。每篇综合页跨多个 source 回答一个真问题。不是摘要，是新理解。
+- 当前仓库没有 `.raw -> wiki` 的自动检测/摄入流程，也没有 manifest、hot cache、log、entities、concepts 等强制结构。
 
 ---
 
@@ -57,6 +57,15 @@ vault/
 - wiki 页面引用的 source 是否存在
 - 有没有 wiki 页面变成了纯摘要（没有跨源洞察）
 - index.md 是否和实际文件一致
+
+### SYNC — 增量检测
+
+运行 `.\sync-wiki.cmd` 或 `powershell -ExecutionPolicy Bypass -File scripts/sync-wiki.ps1`
+
+- 自动检测 `sources/` 的新增/修改
+- 自动刷新 `wiki/index.md`
+- 自动维护 `.wiki-state.json`
+- 只生成增量收件箱，不自动批量新建 wiki 页面
 
 ---
 
@@ -104,6 +113,7 @@ tags: [tag1, tag2]
 
 - `sources/` 只读，不改原始材料
 - `wiki/` 自由创建、更新、删除
+- 当前仓库新增材料统一进入 `sources/`，由人判断是否需要更新或新增 wiki 页面
 - 用 wikilink `[[Page Name]]` 而不是文件路径
 - 每个 wiki 页面必须有 frontmatter（title, created, tags）
 - 宁少勿多：6 篇有洞察的页面 > 60 篇机械摘要

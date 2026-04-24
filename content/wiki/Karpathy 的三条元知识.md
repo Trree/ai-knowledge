@@ -65,7 +65,7 @@ Steve Jobs 对话里对写作的推导也是这个原则的变体：先展开到
 在 LLM Wiki 中：
 - raw source 永远不可变
 - LLM 生成的页面不能冒充原始真相
-→ [[sources/2026-04-22-karpathy-llm-wiki.md|商业化分析]]
+→ [[Karpathy的自运行个人知识库|商业化分析]]
 
 Steve Jobs 对话的总结：
 > "Agent doesn't decide what's better. The metric decides. And the human decides the metric."

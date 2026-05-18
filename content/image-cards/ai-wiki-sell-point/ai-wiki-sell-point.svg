@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1440" viewBox="0 0 1080 1440">
+  <defs>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#172033" flood-opacity="0.12"/>
+    </filter>
+    <filter id="smallShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#172033" flood-opacity="0.10"/>
+    </filter>
+    <linearGradient id="heroGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1F2937"/>
+      <stop offset="0.58" stop-color="#163B44"/>
+      <stop offset="1" stop-color="#245B55"/>
+    </linearGradient>
+    <linearGradient id="ctaGradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#E8655A"/>
+      <stop offset="1" stop-color="#2F8F83"/>
+    </linearGradient>
+    <style>
+      .font { font-family: "Microsoft YaHei", "Noto Sans CJK SC", "PingFang SC", Arial, sans-serif; }
+      .title { font-size: 78px; font-weight: 800; letter-spacing: 0; fill: #FFFFFF; }
+      .subtitle { font-size: 32px; font-weight: 600; fill: #DDF7EF; }
+      .sectionTitle { font-size: 38px; font-weight: 800; fill: #172033; }
+      .body { font-size: 28px; font-weight: 500; fill: #4B5563; }
+      .bodyDark { font-size: 28px; font-weight: 700; fill: #172033; }
+      .small { font-size: 24px; font-weight: 500; fill: #6B7280; }
+      .pillText { font-size: 26px; font-weight: 700; fill: #172033; }
+      .cardTitle { font-size: 30px; font-weight: 800; fill: #172033; }
+      .cardBody { font-size: 24px; font-weight: 500; fill: #4B5563; }
+      .ctaMain { font-size: 38px; font-weight: 800; fill: #FFFFFF; }
+      .ctaSub { font-size: 25px; font-weight: 600; fill: #FFF5ED; }
+    </style>
+  </defs>
+
+  <rect width="1080" height="1440" fill="#F7F8FA"/>
+  <circle cx="965" cy="140" r="150" fill="#F2C94C" opacity="0.18"/>
+  <circle cx="85" cy="550" r="120" fill="#2F8F83" opacity="0.12"/>
+  <circle cx="1000" cy="995" r="95" fill="#E8655A" opacity="0.12"/>
+
+  <rect x="54" y="54" width="972" height="448" rx="36" fill="url(#heroGradient)" filter="url(#softShadow)"/>
+  <rect x="86" y="88" width="278" height="58" rx="29" fill="#F2C94C"/>
+  <text x="225" y="126" text-anchor="middle" class="font pillText">AI 主题 Wiki 编译服务</text>
+
+  <text x="88" y="228" class="font title">
+    <tspan x="88" dy="0">把散乱资料</tspan>
+    <tspan x="88" dy="92">编译成可用 Wiki</tspan>
+  </text>
+  <text x="90" y="396" class="font subtitle">10-30 篇资料 → 首页 + 核心判断页 + 索引</text>
+
+  <g transform="translate(808 108)">
+    <rect x="0" y="0" width="154" height="196" rx="20" fill="#FFFFFF" opacity="0.95"/>
+    <rect x="20" y="24" width="88" height="14" rx="7" fill="#2F8F83"/>
+    <rect x="20" y="60" width="114" height="12" rx="6" fill="#D9E2EC"/>
+    <rect x="20" y="86" width="98" height="12" rx="6" fill="#D9E2EC"/>
+    <rect x="20" y="112" width="114" height="12" rx="6" fill="#D9E2EC"/>
+    <rect x="20" y="148" width="54" height="24" rx="12" fill="#E8655A"/>
+    <path d="M124 24 L134 34 L124 44" fill="none" stroke="#172033" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <text x="76" y="575" class="font sectionTitle">买的不是整理，是一个能继续用的结果</text>
+
+  <g transform="translate(76 632)">
+    <rect x="0" y="0" width="420" height="250" rx="28" fill="#FFFFFF" filter="url(#smallShadow)"/>
+    <text x="210" y="52" text-anchor="middle" class="font bodyDark">散乱资料</text>
+    <g transform="translate(84 86)">
+      <rect x="0" y="54" width="128" height="90" rx="14" fill="#E9EEF5" stroke="#CBD5E1" stroke-width="3"/>
+      <rect x="28" y="28" width="128" height="90" rx="14" fill="#FFF1D6" stroke="#F2C94C" stroke-width="3"/>
+      <rect x="56" y="0" width="128" height="90" rx="14" fill="#FDE4E1" stroke="#E8655A" stroke-width="3"/>
+      <rect x="76" y="22" width="72" height="8" rx="4" fill="#172033" opacity="0.42"/>
+      <rect x="76" y="44" width="96" height="7" rx="3.5" fill="#172033" opacity="0.25"/>
+      <rect x="76" y="64" width="80" height="7" rx="3.5" fill="#172033" opacity="0.25"/>
+    </g>
+    <text x="210" y="218" text-anchor="middle" class="font small">文章 / PDF / 笔记 / 链接</text>
+  </g>
+
+  <g transform="translate(496 705)">
+    <circle cx="44" cy="44" r="44" fill="#172033"/>
+    <path d="M30 44 H58" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round"/>
+    <path d="M48 28 L64 44 L48 60" fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <g transform="translate(584 632)">
+    <rect x="0" y="0" width="420" height="250" rx="28" fill="#FFFFFF" filter="url(#smallShadow)"/>
+    <text x="210" y="52" text-anchor="middle" class="font bodyDark">可查询 Wiki</text>
+    <g transform="translate(82 86)">
+      <rect x="0" y="-8" width="256" height="124" rx="18" fill="#E8F7F3" stroke="#2F8F83" stroke-width="4"/>
+      <rect x="20" y="22" width="74" height="16" rx="8" fill="#2F8F83"/>
+      <rect x="20" y="56" width="98" height="10" rx="5" fill="#7BBDB4"/>
+      <rect x="20" y="82" width="126" height="10" rx="5" fill="#7BBDB4"/>
+      <rect x="166" y="28" width="58" height="58" rx="14" fill="#FFFFFF" stroke="#E8655A" stroke-width="4"/>
+      <path d="M182 58 L194 70 L214 44" fill="none" stroke="#E8655A" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <text x="210" y="226" text-anchor="middle" class="font small">判断页 / 索引 / 行动建议</text>
+  </g>
+
+  <g transform="translate(76 930)">
+    <rect x="0" y="0" width="444" height="156" rx="26" fill="#FFFFFF" filter="url(#smallShadow)"/>
+    <circle cx="56" cy="58" r="28" fill="#E8F7F3"/>
+    <path d="M44 58 L54 68 L72 46" fill="none" stroke="#2F8F83" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="102" y="57" class="font cardTitle">不做摘要堆砌</text>
+    <text x="102" y="101" class="font cardBody">每页回答一个真问题</text>
+  </g>
+
+  <g transform="translate(560 930)">
+    <rect x="0" y="0" width="444" height="156" rx="26" fill="#FFFFFF" filter="url(#smallShadow)"/>
+    <circle cx="56" cy="58" r="28" fill="#FFF1D6"/>
+    <rect x="42" y="42" width="28" height="36" rx="6" fill="none" stroke="#D99A00" stroke-width="6"/>
+    <path d="M50 54 H64 M50 66 H62" stroke="#D99A00" stroke-width="5" stroke-linecap="round"/>
+    <text x="102" y="57" class="font cardTitle">交付可直接用</text>
+    <text x="102" y="101" class="font cardBody">首页 / 判断页 / 索引</text>
+  </g>
+
+  <g transform="translate(76 1112)">
+    <rect x="0" y="0" width="444" height="156" rx="26" fill="#FFFFFF" filter="url(#smallShadow)"/>
+    <circle cx="56" cy="58" r="28" fill="#EAF0FF"/>
+    <path d="M56 40 V60 L70 70" fill="none" stroke="#2756A3" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="56" cy="58" r="21" fill="none" stroke="#2756A3" stroke-width="6"/>
+    <text x="102" y="57" class="font cardTitle">7 天内完成</text>
+    <text x="102" y="101" class="font cardBody">适合调研、选题、课程</text>
+  </g>
+
+  <g transform="translate(560 1112)">
+    <rect x="0" y="0" width="444" height="156" rx="26" fill="#FFFFFF" filter="url(#smallShadow)"/>
+    <circle cx="56" cy="58" r="28" fill="#FDE4E1"/>
+    <path d="M44 70 L44 48 C44 40 50 36 58 36 H70 C78 36 84 42 84 50 V76 L70 68 H58 C50 68 44 64 44 56" fill="none" stroke="#E8655A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="102" y="57" class="font cardTitle">先判断再接单</text>
+    <text x="102" y="101" class="font cardBody">先看主题 + 3 篇资料</text>
+  </g>
+
+  <rect x="76" y="1302" width="928" height="116" rx="36" fill="url(#ctaGradient)" filter="url(#smallShadow)"/>
+  <text x="540" y="1352" text-anchor="middle" class="font ctaMain">发我主题 + 3 篇资料，先做可行性判断</text>
+  <text x="540" y="1392" text-anchor="middle" class="font ctaSub">适合：创业选题 / 行业研究 / AI 工具调研 / 课程资料整理</text>
+</svg>

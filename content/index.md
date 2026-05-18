@@ -1,11 +1,21 @@
 ---
 title: Home
-updated: 2026-04-24
+updated: 2026-04-27
 ---
 
 # Home
 
 打开 Obsidian 先看这页，不先看随机笔记。
+
+## 最近 2 天更新
+
+```dataview
+TABLE file.folder AS "目录", file.mtime AS "更新时间"
+FROM ""
+WHERE file.mtime >= date(now) - dur(2 days)
+  AND file.name != "index"
+SORT file.mtime DESC
+```
 
 ## Today
 
@@ -45,6 +55,8 @@ updated: 2026-04-24
 - [[wiki/反馈循环是唯一的元模式]]
 - [[wiki/卖结果不卖工具]]
 - [[wiki/评估者比执行者更危险]]
+
+
 
 ## Rule
 

@@ -2,7 +2,7 @@
 
 截至 2026 年 4 月 21 日，我核对了 OpenAI、Google、Perplexity、Anthropic 的官方资料，以及几篇直接讨论研究代理结构和评测的原始论文。先说结论，今天的前沿产品已经不是纯单次搜索了。OpenAI 官方写的是多步研究，并且会根据拿到的信息 pivot 和 backtrack。Google 官方写的是先出研究计划，再多轮搜索和精炼。Perplexity 官方写的是 iteratively search、read、reason。Anthropic 官方写的是 multiple searches that build on each other。
 
-所以，下一代 Deep Research 系统要解决的，已经不是「把单次搜索变成迭代搜索」。真正的问题是，怎么把「会搜」升级成「会围绕一个研究交付物持续补证据、处理矛盾、显式暴露缺口，并且在合适的时候停下来」。
+所以，下一代 [[deepresearch]] 系统要解决的，已经不是「把单次搜索变成迭代搜索」。真正的问题是，怎么把「会搜」升级成「会围绕一个研究交付物持续补证据、处理矛盾、显式暴露缺口，并且在合适的时候停下来」。
 
 ## Current Products
 
